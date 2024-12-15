@@ -1,0 +1,10 @@
+Host: 0.0.0.0
+Port: 8080
+DatabaseUrl: postgres://postgres:postgres@localhost:5432/postgres
+JwtSecret: 4781abbb-5d19-4e18-9f90-08c64b8d135f
+AccessTokenTtl: 0h2m0s
+RefreshTokenTtl: 24h0m0s
+EmailAddres: usr.rgstr.srv.example@gmail.com
+EmailPassword:
+EmailHost: smtp.gmail.com
+EmailCodeTtl: 0h5m0s
